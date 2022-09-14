@@ -25,3 +25,5 @@ The breakeven point for these values are 125 hours. Which means that after 125 h
 the full time employee. 
 
 It is better to hire a full time employee in this scenario, although the inital onboarding of $50000 has to be invested, but in the long run(i.e after 125 hours) the hospital will end up spending more money if they hired a locum. 
+
+This project was part of the academic paper done for Drexel Scholars Medical School program.
