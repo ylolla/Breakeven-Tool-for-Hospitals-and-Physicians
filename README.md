@@ -11,7 +11,7 @@ Once you enter the inputs for the 3 prompts;
 A graph will be displayed which shows the breakeven point or intersection point for the number of hours that a locum will cost more for the hospital to keep 
 in the long run. This will be helpful for hospitals to decide wether to hire a locum or a full time employee based on the number of hours. 
 
-https://colab.research.google.com/drive/1hk0VXKe5FeXlz5ZUTQs0csCoWfnvQWnl -- Click this link to run the file directly. 
+https://colab.research.google.com/drive/1hk0VXKe5FeXlz5ZUTQs0csCoWfnvQWnl -- Click this link to run the file directly. You can re-run the code and enter custom values using the link. 
 
 For example: 
 
